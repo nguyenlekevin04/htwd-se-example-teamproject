@@ -1,5 +1,6 @@
 = Teamdokumentation
-Vorname Nachname <email>
+Kevin Nguyen nguyenlekevin2006@gmail.com
+include::Teammitglieder.adoc[]
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
