@@ -1,5 +1,10 @@
 = Teamdokumentation
+<<<<<<< HEAD
 Sofiia Khaleeva <sofiia.khaleeva@stud.htw-dresden.de>
+=======
+Kevin Nguyen nguyenlekevin2006@gmail.com
+include::Teammitglieder.adoc[]
+>>>>>>> 7552ff30a6038c54634761ca917096ac2ba0df68
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
