@@ -1,0 +1,9 @@
+== Teammitglieder
+
+[cols="1,1", options="header"]
+|===
+| Name | Rolle
+
+| Alice Müller | Projektleitung
+| Bob Schmidt  | Entwickler
+|===
